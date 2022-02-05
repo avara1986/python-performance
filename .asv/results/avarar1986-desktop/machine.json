@@ -1,0 +1,9 @@
+{
+    "arch": "x86_64",
+    "cpu": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+    "machine": "avarar1986-desktop",
+    "num_cpu": "4",
+    "os": "Linux 5.13.0-28-generic",
+    "ram": "16324944",
+    "version": 1
+}

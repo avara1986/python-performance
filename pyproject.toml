@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "python-performance"
+version = "0.1.0"
+description = "Webinar Python Performance"
+authors = ["avara1986 <a.vara.1986@gmail.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+build = "^0.7.0"
+jupyter = "^1.0.0"
+matplotlib = "^3.5.1"
+
+[tool.poetry.dev-dependencies]
+asv = "^0.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

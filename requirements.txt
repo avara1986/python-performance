@@ -1,0 +1,4 @@
+jupyter==1.0.0
+matplotlib==3.4.3
+asv==0.4.2
+build==0.7.0

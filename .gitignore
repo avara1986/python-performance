@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Intely
+.idea
+
+# ASV
+.asv/env
+.asv/html
+.asv/results
