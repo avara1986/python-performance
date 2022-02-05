@@ -49,5 +49,5 @@ def my_function():
     # func_0c([i for i in range(500)])
     # func_0n([i for i in range(500)])
     # func_log_n([i for i in range(500)])
-    # func_n_2([i for i in range(500)])
-    func_2_n(33)
+    func_n_2([i for i in range(500)])
+    # func_2_n(33)
